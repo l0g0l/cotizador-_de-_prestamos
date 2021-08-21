@@ -3,7 +3,7 @@ import Form from './Components/Form'
 import Header from './Components/Header'
 import Mensaje from './Components/Mensaje'
 import Resultado from './Components/Resultado'
-import Spinner from './Components/Spinner'
+import Spinner from './Components/Spinner/Spinner'
 
 
 
