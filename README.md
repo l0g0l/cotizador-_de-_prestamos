@@ -12,7 +12,7 @@
 <img src="https://sonarcloud.io/api/project_badges/measure?project=l0g0l_cotizadorPrestamos&metric=alert_status" alt="Sonar Quality Gate"></p>
 
 <p align="center">
-<img src="img/accesibility.png" alt="Accesibility test" width="400"></p
+<img src="public/img/accesibilidad.png" alt="Accesibility test" width="350"></p
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,44 +29,42 @@
 </details>
 
 
-### Prerequisites
-
-
-- Clone the repository on your local machine (https://github.com/l0g0l/buscadorRepos_FrontEnd.git)
+### Prerequisites  
+- Node: 10.16.0 or more
+- React js
+- Clone the repository on your local machine (https://github.com/l0g0l/cotizadorPrestamos.git)
 
 ## Installation
 
 
 
 ```sh
-cd imagesFinder go into the folder
+cd cotizadorPrestamos go into the folder
 ```
 
 
 ```sh
-To open the HTMl file in the browser you have several options:
-
-1- You look for the HTML file you want to view, right click on it and choose Open with from the menu. You will see a complete list of applications that you can use to run the file. The default browser will be at the top of the list.
-You select Google Chrome from the list and see your file in the browser.
-
-2-Drag and drop the HTML file directly into a new tab. Chrome will automatically open the page
+npm init
 
 ```
+```sh
+npm start
 
+```
 
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-Creation of a Images finder
+Building a loan quoter using React js in functional and useState hook.
+CSS is made with Skeleton
+Web 93% accessible
 
 
 ### Requirements  
 
--Develop a web aplication with HTML, CSS and JavaScript.  
--Request API Pixabay.
--Responsive to Desktop, Tablet and Mobile.
+-Develop a web aplication with HTML, CSS, JavaScript and React js.  
 -Deploy
 -Version control management with GiT.
 
@@ -77,24 +75,8 @@ Creation of a Images finder
 
 ## App Overview  
 
-##### Desktop
 
-<img src="img/desktop.png"  alt="desktop view">
-
-<br>
-<br>  
-
-##### Tablet
-
-<img src="img/tablet.png"  alt="tablet view">
-
-
-<br>
-<br>
-
-##### Moblie
-
-<img src="img/mobile.gif  "  alt="mobile view">
+<img src="public/img/cotizadorprestamo.gif"  alt="cotizador de prestamos">
 <br>
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -102,7 +84,7 @@ Creation of a Images finder
 ## Languages and Tools:
 
 
-The project is deployed in [GitHub Pages](https://pages.github.com/)  
+The project is deployed in [Heroku](https://www.heroku.com/)  
 <br>
 
 <p align="left">
@@ -116,8 +98,11 @@ The project is deployed in [GitHub Pages](https://pages.github.com/)
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
-       <a href="https://pages.github.com/" target="_blank">
-        <img src="img/githubLetras.svg" alt="githubPages" width="40" height="40"/>
+      <a href="https://www.react.com/" target="_blank">
+        <img src="public/img/react.svg" alt="githubPages" width="40" height="40"/>
+    </a>
+     <a href="https://www.heroku.com/" target="_blank">
+        <img src="public/img/heroku-icon.svg" alt="githubPages" width="40" height="40"/>
     </a>
     
 </p>
