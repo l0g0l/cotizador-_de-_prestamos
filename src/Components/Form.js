@@ -4,7 +4,7 @@ import { calcutlarTotal } from '../helpers/helpers'
 // Cuando las props cson muchas, el destructuring ya no queda bien, le pasamos props y creamos una variable dentro con las props en destructuring
 const Form = (props) => {
 
-    const { cantidad, setcantidad, plazo, setplazo, total, settotal, setcargando } = props
+    const { cantidad, setcantidad, plazo, setplazo, settotal, setcargando } = props
 
 
     //definir state para mensaje de error
