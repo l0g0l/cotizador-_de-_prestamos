@@ -3,14 +3,13 @@
 <p align="center">
 <h4 align="center">Cotizador de préstamos</h4>
   <p align="center">
-    <a href="https://l0g0l.github.io/imagesFinder/">View Web Application</a>
+    <a href="https://cotizadordeprestamosreact.netlify.app/">View Web Application</a>
   </p>
   <p align="center">
-<img src="https://www.codefactor.io/repository/github/l0g0l/imagesfinder/badge/main" alt="Codefactor Grade">
+<img src="https://www.codefactor.io/repository/github/l0g0l/cotizadorprestamos/badge" alt="Codefactor Grade">
 </p>
 <p align="center">
-<img src="https://sonarcloud.io/api/project_badges/measure?project=l0g0l_imagesFinder&metric=alert_status
-" alt="Sonar Quality Gate"></p>
+<img src="https://sonarcloud.io/api/project_badges/measure?project=l0g0l_cotizadorPrestamos&metric=alert_status" alt="Sonar Quality Gate"></p>
 
 <p align="center">
 <img src="img/accesibility.png" alt="Accesibility test" width="400"></p
