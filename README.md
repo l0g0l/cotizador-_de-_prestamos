@@ -26,13 +26,20 @@
     <li><a href="#languages-and-tools">Languages and Tools</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
-</details>
+</details>  
+
+## Learn more
+
+To be more familiar with the libraries and frameworks I have mainly used I will leave a short explanation here:  
+
+### [Skeleton](http://getskeleton.com/)
+
+Skeleton is a lightweight CSS framework or boilerplate, more specifically, it’s two CSS files: the popular normalize.css file and the skeleton.css file. The most important part of Skeleton is its grid system.  Additionally, the framework provides basic styles for common HTML components like buttons, lists, tables, and forms.
 
 
 ### Prerequisites  
-- Node: 10.16.0 or more
-- React js
-- Clone the repository on your local machine (https://github.com/l0g0l/cotizadorPrestamos.git)
+- [Node](https://nodejs.org/en/): 10.16.0 or more
+- [React js](https://es.reactjs.org/)- Clone the repository on your local machine (https://github.com/l0g0l/cotizadorPrestamos.git)
 
 ## Installation
 
@@ -59,12 +66,12 @@ npm start
 
 Building a loan quoter using React js in functional and useState hook.
 CSS is made with Skeleton
-Web 93% accessible
+
 
 
 ### Requirements  
 
--Develop a web aplication with HTML, CSS, JavaScript and React js.  
+-Develop a web aplication with HTML, CSS with Skeleton, JavaScript and React js.  
 -Deploy
 -Version control management with GiT.
 
@@ -84,25 +91,22 @@ Web 93% accessible
 ## Languages and Tools:
 
 
-The project is deployed in [Heroku](https://www.heroku.com/)  
+The project is deployed in [Netlifly](https://www.netlify.com/)  
 <br>
 
 <p align="left">
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a> 
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+        <a href="https://www.react.com/" target="_blank">
+        <img src="public/img/react.svg" alt="githubPages" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
-      <a href="https://www.react.com/" target="_blank">
-        <img src="public/img/react.svg" alt="githubPages" width="40" height="40"/>
-    </a>
-     <a href="https://www.heroku.com/" target="_blank">
-        <img src="public/img/heroku-icon.svg" alt="githubPages" width="40" height="40"/>
+     <a href="https://www.netlify.com/" target="_blank">
+        <img src="public/img/netlify.svg" alt="githubPages" width="40" height="40"/>
     </a>
     
 </p>
